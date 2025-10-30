@@ -1,6 +1,8 @@
 {
-	"Anime": {
-		"name": "House in the Countryside",
-		"url": ""
-	}
+	"Anime": [
+		{
+			"name": "House in the Countryside",
+			"url": "https://raw.githubusercontent.com/stanlysilas/bloom_data/refs/heads/main/backgrounds/house-in-the-countryside.jpg"
+		}
+	]
 }
