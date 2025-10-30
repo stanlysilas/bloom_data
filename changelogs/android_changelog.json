@@ -10,5 +10,14 @@
 			"Fixed some critical bugs that interrupted your productivity."
 		],
 		"notes": "Major UI overhaul and critical bug fixes."
+	},
+	{
+		"version": "2.2.3",
+		"title": "Bug-Fix Update",
+		"date": "2025-10-15",
+		"highlights": [
+			"Fixed issues with scrolling all over the app."
+		],
+		"notes": "Quality-of-Life Update."
 	}
 ]
