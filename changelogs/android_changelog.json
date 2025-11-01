@@ -7,6 +7,7 @@
 			"Re-designed Bloom completely with Material 3 guidelines.",
 			"Improved and optimized app loading speed.",
 			"Off-loaded some static elements from the app to free up space.",
+			"Added more backgrounds based on categories for Note backgrounds.",
 			"Fixed some critical bugs that interrupted your productivity."
 		],
 		"notes": "Major UI overhaul and critical bug fixes."
