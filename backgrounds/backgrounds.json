@@ -1,4 +1,38 @@
 {
+    "Default": [
+    	{
+    		"name": "Foggy Peak 1",
+    		"url": 
+    	},
+    	{
+    		"name": "Foggy Peak 2",
+    		"url": 
+    	},
+    	{
+    		"name": "Mountain Peak Dark",
+    		"url": 
+    	},
+    	{
+    		"name": "Obsidian Essence",
+    		"url": 
+    	},
+    	{
+    		"name": "Roman Pillars",
+    		"url": 
+    	},
+    	{
+    		"name": "Sand Dunes",
+    		"url": 
+    	},
+    	{
+    		"name": "Sunset in the Mountains",
+    		"url": 
+    	},
+    	{
+    		"name": "White Globe",
+    		"url": 
+    	}
+    ],
 	"Anime": [
 		{
 			"name": "House in the Countryside",
