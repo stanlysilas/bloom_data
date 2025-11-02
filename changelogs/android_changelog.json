@@ -5,6 +5,7 @@
 		"date": "2025-11-02",
 		"highlights": [
 			"Re-designed Bloom completely with Material 3 guidelines.",
+			"Added a new option to change the ColorScheme of Bloom.",
 			"Improved and optimized app loading speed.",
 			"Off-loaded some static elements from the app to free up space.",
 			"Added more backgrounds based on categories for Note backgrounds.",
